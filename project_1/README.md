@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Анализ вакансий на hh
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/project_0/README.md#Описание-проекта)
