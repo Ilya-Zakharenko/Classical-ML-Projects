@@ -1,4 +1,4 @@
-# <center> **PROJECT-1. Анализ резюме из HeadHunter Final**
+# <center> **PROJECT-1. Анализ резюме из HeadHunter**
 
 ### <center> $Оглавление$
 [1. Описание проекта](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-1/README.md#Описание-проекта)
