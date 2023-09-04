@@ -2,7 +2,9 @@
 
 ### <center> $Оглавление$
 [1. Описание проекта](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-1/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-1/README.md#Какой-кейс-решаем)
+
 [4. Этапы работы над проектом](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-1/README.md#Этапы-работы-над-проектом)
 
 ### <center> $Описание$ $проекта$
