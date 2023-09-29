@@ -9,5 +9,12 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 3. EDA + Feature Engineering](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-3)
 * [Проект 4. Задача Классификации](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-4)
 * [Проект 5. Задача Регрессии](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-5)
+
+* [Проект: Классификация мужчин и женщин по голосу](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Classification_of_men_and_women_by_voice)
+
+* [Проект: Предсказание удовлетворённости пассажиров авиакоипаний](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Predicting_airline_passenger_satisfaction)
+
+* [Проект: Сегментация клиентов банка](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Segmentation_of_bank_clients)
+* [Проект: Предсказание погоды в Австралии](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Weather_prediction_in_Australia)
 * [Практическая работа 1. Отбор и селекция признаков](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/practical_work_1)
 * [Практическая работа 2. Прогнозирование биологического ответа](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/practical_work_2)
