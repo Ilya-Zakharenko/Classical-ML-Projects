@@ -10,6 +10,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 4. Задача Классификации](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-4)
 * [Проект 5. Задача Регрессии](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-5)
 * [Проект 6. Задача Кластеризации](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-6)
+* [Проект 7. Агентство недвижимости](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT-7)
 
 * [Проект: Классификация мужчин и женщин по голосу](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Classification_of_men_and_women_by_voice)
 
