@@ -22,3 +22,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Практическая работа 2. Прогнозирование биологического ответа](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/practical_work_2)
 
 * [Аналитический проект 1. Исследование успеваимости студентов.](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Riid_Education_Analysis)
+
+* [Игра между агентами: Камень-Ножницы-Бумага.](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Rock_Paper_Scissors_Agents_Battle)
