@@ -20,3 +20,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект: Предсказание погоды в Австралии](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/PROJECT_Weather_prediction_in_Australia)
 * [Практическая работа 1. Отбор и селекция признаков](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/practical_work_1)
 * [Практическая работа 2. Прогнозирование биологического ответа](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/practical_work_2)
+
+* [Аналитический проект 1. Исследование успеваимости студентов.](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Riid_Education_Analysis)
