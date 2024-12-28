@@ -24,3 +24,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Аналитический проект 1. Исследование успеваимости студентов.](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Riid_Education_Analysis)
 
 * [Игра между агентами: Камень-Ножницы-Бумага.](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Rock_Paper_Scissors_Agents_Battle)
+
+* [Проект: Глобальные данные по устойчивой энергетике (2000-2020).](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Global_Data_on_Sustainable_Energy_(2000-2020))
