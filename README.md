@@ -4,14 +4,14 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 
 ## List of projects:
 
-* [Проект 0. Игра: Угадай число](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-0)
+* [Algorithm. the game: Guess Number With Binary Search](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Algorithm.Guess-Number-With-Binary-Search)
 * [Data Analysis: Resume Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Resume-Analysis-on-HH)
-* [Проект 2. Анализ вакансий из HeadHunter](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-2)
+* [Data Analysis: Vacancy Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Vacancy-Analysis-on-HH)
 * [Проект 3. EDA + Feature Engineering](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-3)
-* [Проект 4. Задача Классификации](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-4)
-* [Проект 5. Задача Регрессии](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-5)
-* [Проект 6. Задача Кластеризации](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-6)
-* [Проект 7. Агентство недвижимости](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT-7)
+* [Classification Task: Bank Deposit Marketing](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Bank-Deposit-Marketing)
+* [Regression Task: Taxi Trip Duration Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Taxi-Trip-Duration-Prediction)
+* [Clustering Task: Customer Segmentation with RFM](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Customer-Segmentation-with-RFM)
+* [Regression Task: House Price Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.House-Price-Prediction)
 
 * [Проект: Классификация мужчин и женщин по голосу](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/PROJECT_Classification_of_men_and_women_by_voice)
 
