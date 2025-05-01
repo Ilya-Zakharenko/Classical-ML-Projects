@@ -12,6 +12,8 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 
 * [Classification Task. Gender Classification by Voice](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Gender-Classification-by-Voice)
 
+* [Classification Task: Oil and Gas Fields Classification](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Oil-and-Gas-Fields-Classification)
+
 * [Classification Task: Rain Prediction in Australia](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Rain-Prediction-in-Australia)
 
 * [Clustering Task: Bank Client Segmentation](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Bank-Client-Segmentation)
