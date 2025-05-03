@@ -36,6 +36,8 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 
 * [Regression Task: Taxi Trip Duration Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Taxi-Trip-Duration-Prediction)
 
+* [Regression Task: Tutors Lessons Prices Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Tutors-Lessons-Prices-Prediction)
+
 * [Практическая работа 1. Отбор и селекция признаков](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/practical_work_1)
 
 * [Практическая работа 2. Прогнозирование биологического ответа](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/practical_work_2)
