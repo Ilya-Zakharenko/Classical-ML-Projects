@@ -20,6 +20,8 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 
 * [Clustering Task: Customer Segmentation with RFM](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Customer-Segmentation-with-RFM)
 
+* [Clustering Task: Clustering Physical Activity Data](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Physical-Activity-Data-Clustering)
+
 * [Data Analysis: Resume Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Resume-Analysis-on-HH)
 
 * [Data Analysis: Riid Student Performance Analysis](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Riid-Student-Performance-Analysis)
