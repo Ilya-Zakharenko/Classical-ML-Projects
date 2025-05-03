@@ -1,6 +1,6 @@
 # <center> **PROJECT: Tutors Lessons Prices Prediction.**
 
-![alt text](header.png)
+![header.png](attachment:header.png)
 
 Этот проект посвящён задаче регрессии: разработка модели для прогнозирования средней стоимости услуг репетитора за минуту (в рублях) на основе различных данных.
 
