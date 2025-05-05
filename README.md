@@ -4,13 +4,15 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 
 ## **List of projects**:
 
+* [AB-Testing: Advertising Effectiveness Analysis](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/AB-Testing.Advertising-Effectiveness-Analysis)
+
 * [Algorithm. the game: Guess Number With Binary Search](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Algorithm.Guess-Number-With-Binary-Search)
 
 * [Classification Task: Airline Passenger Satisfaction Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Airline-Passenger-Satisfaction-Prediction)
 
 * [Classification Task: Bank Deposit Marketing](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Bank-Deposit-Marketing)
 
-* [Classification Task. Gender Classification by Voice](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Gender-Classification-by-Voice)
+* [Classification Task: Gender Classification by Voice](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Gender-Classification-by-Voice)
 
 * [Classification Task: Oil and Gas Fields Classification](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Oil-and-Gas-Fields-Classification)
 
