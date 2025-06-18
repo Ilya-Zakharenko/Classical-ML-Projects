@@ -1,8 +1,8 @@
 # <center> **Data Science (Machine Learning) Projects**
 
-This repository contains my projects on $Data Science (Machine Learning)$.
+This repository contains my projects on $Data Science (Classical ML)$.
 
-## **List of projects**:
+## **List of projects:**
 
 * [AB-Testing: Advertising Effectiveness Analysis](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/AB-Testing.Advertising-Effectiveness-Analysis)
 
@@ -31,6 +31,8 @@ This repository contains my projects on $Data Science (Machine Learning)$.
 * [Data Analysis: Vacancy Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Vacancy-Analysis-on-HH)
 
 * [Game Development: Rock Paper Scissors Agents Battle](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Game-Development.Rock-Paper-Scissors-Agents-Battle)
+
+* [ML Project: Molpredict Exploring Chemistry](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/ML-Project.Molpredict-Exploring-Chemistry)
 
 * [Regression Task: Sustainable Energy Consumption Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Energy-Consumption-Prediction)
 
