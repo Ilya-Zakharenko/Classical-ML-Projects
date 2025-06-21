@@ -1,22 +1,24 @@
 # <center> **PROJECT: Advertising Effectiveness Analysis.**
 
-Этот проект посвящён A/B-тестированию: анализ групп для оценки успешности рекламы, расчёт потенциального дохода компании и проверка статистической значимости различий между группами.
+This project is about $A/B$ testing: analyzing groups to evaluate the success of advertising, calculating the potential income of the company, and testing the statistical significance of differences between groups.
 
 ---
 
-### **Описание**
-Проект направлен на анализ результатов $A/B$-тестирования рекламной кампании. Цели:  
-- Определить, была ли реклама успешной (например, увеличились ли конверсии).  
-- Рассчитать потенциальный доход компании от внедрения рекламы.  
-- Проверить, являются ли различия между группами (контрольной и тестовой) статистически значимыми.  
-Используются такие метрики, как конверсия, средний чек, кликабельность (CTR).
+### **Description**
+The project aims to analyze the results of $A/B$ testing of an advertising campaign.
+
+Objectives:  
+- Determine whether the advertising was successful (e.g. whether conversions increased).  
+- Calculate the company's potential income from the implementation of advertising.  
+- Check whether the differences between the groups (control and test) are statistically significant.
+Metrics such as conversion, average check, click-through rate (CTR) are used.
 
 ---
 
-### **Используемые инструменты**
+### **Tools used**
 - `Python`
-- `Pandas`, `NumPy` (для обработки данных)
-- `SciPy`, `Statsmodels` (для статистического анализа)
-- `Matplotlib`, `Seaborn`, `Plotly` (для визуализации)
+- `Pandas`, `NumPy` (for data processing)
+- `SciPy`, `Statsmodels` (for statistical analysis)
+- `Matplotlib`, `Seaborn`, `Plotly` (for visualization)
 
 ---
