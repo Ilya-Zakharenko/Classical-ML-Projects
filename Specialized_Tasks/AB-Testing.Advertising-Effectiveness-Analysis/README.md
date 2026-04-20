@@ -1,5 +1,7 @@
 # <center> **PROJECT: Advertising Effectiveness Analysis.**
 
+![header.jpg](attachment:header.jpg)
+
 This project is about $A/B$ testing: analyzing groups to evaluate the success of advertising, calculating the potential income of the company, and testing the statistical significance of differences between groups.
 
 ---
