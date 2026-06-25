@@ -22,7 +22,6 @@ This collection is part of a broader classical ML portfolio and aims to show pra
 - **[ShopTalkBot](ShopTalkBot/)**  
   A hybrid conversational recommender chatbot ("барахольщик") that recommends products on shopping-related queries and engages in casual chit-chat on other topics.
 
-(другие проекты будут добавляться сюда по мере реализации)
 
 ---
 
