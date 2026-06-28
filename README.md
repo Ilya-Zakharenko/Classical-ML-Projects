@@ -1,49 +1,74 @@
-# <center> **Data Science (Machine Learning) Projects**
+# <center> **Classical ML Projects**
 
-This repository contains my projects on $Data Science (Classical ML)$.
+Collection of my projects in **Classical Machine Learning** — covering supervised and unsupervised learning tasks using traditional algorithms (without deep neural networks).
 
-## **List of projects:**
+---
 
-* [AB-Testing: Advertising Effectiveness Analysis](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/AB-Testing.Advertising-Effectiveness-Analysis)
+### 📁 Main Folders
 
-* [Algorithm. the game: Guess Number With Binary Search](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Algorithm.Guess-Number-With-Binary-Search)
+- **[Classification_Tasks](Classification_Tasks/)**  
+  Binary and multiclass classification problems across various domains (customer satisfaction, marketing, voice recognition, oil & gas, weather prediction, etc.).
 
-* [Classification Task: Airline Passenger Satisfaction Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Airline-Passenger-Satisfaction-Prediction)
+- **[Regression_Tasks](Regression_Tasks/)**  
+  Regression projects focused on predicting continuous values: house prices, energy consumption, taxi trip duration, tutor pricing, hotel ratings, and more.
 
-* [Classification Task: Bank Deposit Marketing](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Bank-Deposit-Marketing)
+- **[Clustering_Tasks](Clustering_Tasks/)**  
+  Unsupervised learning and customer segmentation projects (RFM analysis, bank clients, physical activity recognition, scintillation detector signals, etc.).
 
-* [Classification Task: Gender Classification by Voice](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Gender-Classification-by-Voice)
+- **[NLP_Tasks](NLP_Tasks/)**  
+  Classical Natural Language Processing projects, including rule-based and ML-powered chatbots, text vectorization, and content-based recommendation systems.
 
-* [Classification Task: Oil and Gas Fields Classification](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Oil-and-Gas-Fields-Classification)
+- **[Specialized_Tasks](Specialized_Tasks/)**  
+  Applied and domain-specific ML projects (A/B testing, uplift modeling, Bayesian methods, etc.).
 
-* [Classification Task: Rain Prediction in Australia](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Classification_Task.Rain-Prediction-in-Australia)
+---
 
-* [Clustering Task: Bank Client Segmentation](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Bank-Client-Segmentation)
+### 🛠 Technologies & Approaches
 
-* [Clustering Task: Customer Segmentation with RFM](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Customer-Segmentation-with-RFM)
+**Core Stack**
+- `pandas`, `numpy`, `scikit-learn`
+- `XGBoost`, `CatBoost`, `LightGBM`
+- `LightAutoML`
+- `matplotlib`, `seaborn`, `plotly`
 
-* [Clustering Task: Clustering Physical Activity Data](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Clustering_Task.Physical-Activity-Data-Clustering)
+**Key Techniques**
+- Feature Engineering & Selection
+- Hyperparameter tuning (`Optuna`, `GridSearchCV`)
+- Ensemble methods & Stacking
+- Bayesian approaches
+- RFM analysis
+- Text processing and sentiment analysis
 
-* [Data Analysis: Resume Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Resume-Analysis-on-HH)
+---
 
-* [Data Analysis: Riid Student Performance Analysis](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Riid-Student-Performance-Analysis)
+### 🎯 Goals of the Repository
 
-* [Data Analysis: Vacancy Analysis on HH](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Data-Analysis.Vacancy-Analysis-on-HH)
+- Master classical machine learning algorithms
+- Solve real-world business and scientific problems
+- Compare different models and approaches
+- Develop strong skills in data preprocessing, feature engineering, and model interpretation
+- Build a solid foundation before moving to Deep Learning
 
-* [Game Development: Rock Paper Scissors Agents Battle](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Game-Development.Rock-Paper-Scissors-Agents-Battle)
+---
 
-* [ML Project: Molpredict Exploring Chemistry](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/ML-Project.Molpredict-Exploring-Chemistry)
+### 📫 How to Explore
 
-* [Regression Task: Sustainable Energy Consumption Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Energy-Consumption-Prediction)
+Each task folder contains multiple projects with:
+- Detailed `README.md`
+- Full Jupyter notebooks
+- Comprehensive EDA and visualizations
+- Model comparison and business insights
+- `requirements.txt`
 
-* [Regression Task: Hotel Rating Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Hotel-Rating-Prediction)
+---
 
-* [Regression Task: House Price Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.House-Price-Prediction)
+### 📌 Note
 
-* [Regression Task: Taxi Trip Duration Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Taxi-Trip-Duration-Prediction)
+This repository focuses on **Classical ML** (tabular data, traditional algorithms).  
+For Deep Learning, Computer Vision, Recommender Systems, and other modern approaches, see my other repositories:
+- [DeepLearning-Projects](https://github.com/Ilya-Zakharenko/DeepLearning-Projects)
+- [Computer-Vision-Projects](https://github.com/Ilya-Zakharenko/Computer-Vision-Projects)
+- [Recommender-Systems-Projects](https://github.com/Ilya-Zakharenko/Recommender-Systems-Projects)
 
-* [Regression Task: Tutors Lessons Prices Prediction](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/Regression_Task.Tutors-Lessons-Prices-Prediction)
+---
 
-* [Практическая работа 1. Отбор и селекция признаков](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/practical_work_1)
-
-* [Практическая работа 2. Прогнозирование биологического ответа](https://github.com/Ilya-Zakharenko/sf_data_sciense/tree/main/Projects/practical_work_2)
