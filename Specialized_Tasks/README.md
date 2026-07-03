@@ -1,27 +1,38 @@
-# <center> **SPECIALIZED TASKS**
+# <center> **Specialized Tasks**
 
-This folder contains projects that go beyond standard regression and classification tasks. 
-
-Here you will find more advanced and applied machine learning topics such as:
-- Uplift Modeling
-- Causal Inference
-- Marketing Analytics
-- Recommendation Systems with causal effects
-- Other specialized or domain-specific ML problems
+This folder contains specialized machine learning and algorithmic projects focused on unique domains and non-standard tasks.
 
 ---
 
-### **Projects**
+### 📁 Projects
 
-- **[Uplift Modeling - Criteo Advertising Campaign](Uplift_Modeling.Criteo_Advertising_Uplift/)**  
-  Comprehensive comparison of different uplift modeling approaches (S-Learner, T-Learner, X-Learner, R-Learner, and Custom Uplift Random Forest) on the large-scale Criteo Uplift Modeling Dataset.  
-  The project focuses on maximizing ROI through optimal targeting of advertising campaigns.
+- **[Guess Number with Binary Search](Algorithm.Guess-Number-With-Binary-Search/)**  
+  Interactive implementation of the binary search algorithm in a number guessing game.
 
+- **[Rock-Paper-Scissors Agents Battle](Game-Development.Rock-Paper-Scissors-Agents-Battle/)**  
+  Simulation of multiple agents competing in Rock-Paper-Scissors using different strategies and learning approaches.
+
+- **[MolPredict: Exploring Chemistry](ML-Project.Molpredict-Exploring-Chemistry/)**  
+  Machine learning project in cheminformatics featuring regression and classification tasks on molecular properties (IC50, CC50, Selectivity Index).
 
 ---
 
-### **How to Explore**
+### 🛠 Technologies & Approaches
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourname/Classical-ML-Projects.git
+- Classical algorithms and data structures
+- Game theory and multi-agent systems
+- Cheminformatics and molecular property prediction
+- Ensemble methods and feature engineering
+
+---
+
+### 📫 How to Explore
+
+Each project contains:
+- Detailed `README.md`
+- Complete Jupyter notebooks
+- Source code and implementations
+- Visualizations and analysis
+- `requirements.txt`
+
+---
