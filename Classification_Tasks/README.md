@@ -14,6 +14,9 @@ Here I explore different real-world binary and multiclass classification problem
 - **[Bank Deposit Marketing](Bank-Deposit-Marketing/)**  
   Binary classification to identify clients most likely to open a term deposit for targeted marketing campaigns.
 
+- **[Biological Response Prediction](Biological-Response-Prediction/)**
+  Binary classification of molecular biological activity based on 1776 chemical descriptors.
+
 - **[Gender Classification by Voice](Gender-Classification-by-Voice/)**  
   Binary classification to determine gender based on acoustic voice features.
 
